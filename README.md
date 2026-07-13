@@ -111,6 +111,6 @@ Senior software developer with 7+ years building web systems end to end — from
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Felipe-A-Almeida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-A-Almeida&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=Felipe-A-Almeida&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=Felipe-A-Almeida&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
 </p>
