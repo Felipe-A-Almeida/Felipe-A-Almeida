@@ -2,6 +2,7 @@
 <p align="center">Senior Software Developer | 7+ years | Rio Claro, SP, Brazil</p>
 
 <p align="center">
+  <a href="https://fasystems.netlify.app"><img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/felipe-almeida-37b991159"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:felipe_a.almeida@outlook.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
